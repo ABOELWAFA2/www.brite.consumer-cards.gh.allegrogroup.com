@@ -1,4 +1,5 @@
-# www.brite.consumer-cards.gh.allegrogroup.com
-
-##Subdomain Takeover POC
-By: Ahmed Kamal
+<hr>
+<center><h1>Subdomain Takeover POC</h1></center>
+<hr>
+<center><h2>By:Ahmed Kamal</h2></center>
+<hr>
